@@ -1,6 +1,4 @@
-package Tree;
-
-import java.util.logging.Level;
+package Exercise.Tree;
 
 public class symmetric_tree {
     public  boolean isSymmetric(TreeNode root) {

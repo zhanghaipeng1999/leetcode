@@ -1,9 +1,5 @@
-package Tree;
+package Exercise.Tree;
 
-
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
 
 public class invert_binary_tree {
 

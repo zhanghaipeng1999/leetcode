@@ -1,4 +1,4 @@
-package Tree;
+package Exercise.Tree;
 
 public class TreeNode {
     int val;
