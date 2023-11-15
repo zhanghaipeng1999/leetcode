@@ -9,6 +9,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class merge_k_sorted_lists {
+
     public static void main(String[] args) {
         ListNode n1 = new ListNode(1);
         ListNode n2 = new ListNode(2);
